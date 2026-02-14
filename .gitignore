@@ -25,4 +25,6 @@ dist-ssr
 
 .vercel
 .env
-.openfort-7702-account
+
+# Local Openfort clone (kept untracked)
+.openfort-7702-account/
